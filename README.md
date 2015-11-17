@@ -2,6 +2,7 @@
 # jsonbox
 
 [![Build Status](https://travis-ci.org/zemirco/jsonbox.svg)](https://travis-ci.org/zemirco/jsonbox)
+[![Coverage Status](https://coveralls.io/repos/zemirco/jsonbox/badge.svg?branch=master&service=github)](https://coveralls.io/github/zemirco/jsonbox?branch=master)
 [![GoDoc](https://godoc.org/github.com/zemirco/jsonbox?status.svg)](https://godoc.org/github.com/zemirco/jsonbox)
 
 Encrypt and decrypt JSON with [secretbox](https://godoc.org/golang.org/x/crypto/nacl/secretbox).
